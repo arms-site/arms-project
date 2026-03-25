@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+/* Custom global scrollbar styles */
+::-webkit-scrollbar {
+  width: 12px;
+  background: #23272a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f59e42; /* orange-400 */
+  border-radius: 8px;
+  border: 2px solid #23272a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #fb923c; /* lighter orange */
+}
+
+::-webkit-scrollbar-track {
+  background: #18181b; /* gray-900 */
+}
+
+/* For Firefox */
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #f59e42 #18181b;
+}
