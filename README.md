@@ -6,8 +6,8 @@
 
 <p align="center">
   <b>Anime memes, anytime, for the community!</b><br>
-  <a href="https://github.com/Brent001/arms-project"><img src="https://img.shields.io/github/stars/Brent001/arms-project?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/Brent001/arms-project/issues"><img src="https://img.shields.io/github/issues/Brent001/arms-project" alt="Issues"></a>
+  <a href="https://github.com/arms-site/arms-project"><img src="https://img.shields.io/github/stars/arms-site/arms-project?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/arms-site/arms-project/issues"><img src="https://img.shields.io/github/issues/arms-site/arms-project" alt="Issues"></a>
   <a href="#"><img src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white" alt="Svelte"></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"></a>
 </p>
@@ -26,7 +26,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/Brent001/arms-project.git
+git clone https://github.com/arms-site/arms-project.git
 
 # Install dependencies
 cd arms-project
@@ -52,7 +52,7 @@ Contributions are welcome!
 
 ## 📬 Contact
 
-For suggestions or questions, open an issue or contact [Brent001](https://github.com/Brent001).
+For suggestions or questions, open an issue or contact [ARMS-Site](https://github.com/arms-site).
 
 ---
 
