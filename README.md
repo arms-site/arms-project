@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Brent001/arms-project/main/static/assets/logo.png" alt="ARMS Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/arms-site/arms-project/main/static/assets/logo.png" alt="ARMS Logo" width="120"/>
 </p>
 
 <h1 align="center">Anime Random Memes Streaming Site (ARMS)</h1>
